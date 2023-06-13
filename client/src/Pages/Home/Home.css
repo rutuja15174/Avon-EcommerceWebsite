@@ -1,0 +1,8 @@
+.container- {
+  background: url("https://www.avon.com/magnoliaPublic/dam/jcr:31a59808-bab6-47d3-afd6-49b1f7fdf9d8/d-hp-a-spot-summer-hydration-en.jpg")
+    no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
