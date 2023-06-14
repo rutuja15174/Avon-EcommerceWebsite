@@ -1,0 +1,7 @@
+.container{
+           background: url("E:\Avon-EcommerceWebsite Project\Avon-EcommerceWebsite\client\src\ProductImages\backgroundimage.jpg") no-repeat center;
+         height: 100vh;
+           width: 100%;
+           background-size: cover;
+           background-repeat: no-repeat;
+}
